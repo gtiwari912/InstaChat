@@ -2,8 +2,10 @@
 Whatsapp clone android app coded in Java. The app uses firebase for authentication of user as well as storage of data. 
 
 ## Screenshots
-<img src="https://github.com/gtiwari912/Whatsapp-Clone/blob/master/Screenshots/ss2.png" width="275" height="460"> <img src="https://github.com/gtiwari912/Whatsapp-Clone/blob/master/Screenshots/ss4.png" width="275" height="460"> <img src="https://github.com/gtiwari912/Whatsapp-Clone/blob/master/Screenshots/ss1.png" width="275" height="460">
-<img src="https://github.com/gtiwari912/Whatsapp-Clone/blob/master/Screenshots/ss3.png" width="275" height="460">
+<img src="https://github.com/gtiwari912/Whatsapp-Clone/blob/master/Screenshots/ss2.png" width="275" height="460"> 
+<img src="https://github.com/gtiwari912/Whatsapp-Clone/blob/master/Screenshots/ss4.png" width="275" height="460">
+<img src="https://github.com/gtiwari912/Whatsapp-Clone/blob/master/Screenshots/ss1.png" width="275" height="460">
+<!-- <img src="https://github.com/gtiwari912/Whatsapp-Clone/blob/master/Screenshots/ss3.png" width="275" height="460"> -->
 
 ## Installation
 
